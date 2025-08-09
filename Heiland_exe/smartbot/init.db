@@ -1,0 +1,8 @@
+# erstellt smartbot.db mit FTS-Suche
+import sqlite3, pathlib, time
+db = pathlib.Path(__file__).with_name("smartbot.db")
+con = sqlite3.connect(db)
+cur = con.cursor()
+cur.execute("CREATE VIRTUAL TABLE IF NOT EXISTS notes USING fts5(ts, role, ts_unix UNINDEXED)")
+con.commit(); con.close()
+print("OK: smartbot.db bereit")

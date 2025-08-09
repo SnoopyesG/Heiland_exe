@@ -1,0 +1,114 @@
+1. Projekte & Plattformen
+SmartBot – Ursprungspunkt moderner Automatisierung
+
+Trading-Bot – Automatischer Handel mit Signalen & ML
+
+All_In_One_Trading_App – Plattform für Bot, Analyse, Signale
+
+Post-App – Digitale Post- und Kommunikationszentrale
+
+ARKHIV – Zentralspeicher für Projekte, Sessions, Wissen
+
+Homepage/Dashboard – Steuerzentrale & Visualisierung
+
+C Steuerfile / Steuerungen – Finanz- und Kontrollmodul
+
+Schwarzes Buch – Geheimes Wissens- und Strategiebuch
+
+Einkommensquellen-Aufbau (34 Streams) – Finanzstrukturplan
+
+Familienschatzkiste (Familienschatz K) – Wissens- & Wertarchiv
+
+Ceo-Dashboard – Führungskonsole für Projekte & Finanzen
+
+2. Meta-System & Struktur
+MASTER_SYSTEM – Zentrale Steuer- und Organisationsinstanz
+
+MetaLogic – Denk- und Entscheidungslogik
+
+LiveMirror – Live-Reflexion & Statusabbildung
+
+KI-Werkbank – Bauplatz für KI-Funktionen
+
+Speicherarchitektur – Strukturiertes Daten- und Wissensfundament
+
+Analysemodule – Werkzeuge für Auswertung & ML
+
+Kommunikationssysteme – Sprache, Rollen, Backup-Kanäle
+
+AZX_SCHIFF – Brücke, Maschinenraum, Flotten, Logbuch, Schatzkammer
+
+AZX-Universum – Räume, Städte, Planeten statt Ordnerstruktur
+
+BANK_METAKAPITAL – Datenbanken als Vermögensanlage
+
+ZIMMER_WAND – Notizen an Wand + Schwarzlicht
+
+3. Papagei-Projekte & Wissensmodelle
+Papagei-Käfig – Geschlossene Denkzelle nur mit eigenen Notizen
+
+Hurricane Papagei – Symbol für Multispur-Audioflut
+
+Papagei-Hurricane – Multispur-Audioflut aller Sprachmemos
+
+Sandsturm – Sessionname mit Mitschnitt & Reproduzierbarkeit
+
+True Mode – Kontextbasierte, intelligente Memos (Version 1)
+
+ParralelUniversum – Zufalls-Multispur ohne Kontextauswertung (Version 2)
+
+SolarSpirale – Spiral-Fortschritt mit Planeten-Modulen (Version 3)
+
+Brainpower – Mensch-Maschine-Lernschicht
+
+Regenwald – Quelle im Brainpower-Modell
+
+Machine Learning with Human – Verarbeitungsschicht zwischen Regenwald und Totenreich
+
+Dschungel-DB – Rohdaten-Quelle aus Sprache
+
+Totenreich – Archiv der fertigen Inhalte
+
+4. Rollen, Marker & Symbole
+HON1 – Backup + Wirkungskern
+
+WICHTIGSTBESTE – Innerer Fixstern für Entscheidungen
+
+KONZEPTBOARD – Visuelle Planung mit Brett & Filzstift
+
+INPUT_SETUP – Maus, Tastatur, Kerzen 9-Stick besorgen
+
+Friendworker – Kombination Freund + Mitarbeiter
+
+ObserverCore – Beobachter und Auslöser
+
+CIA-Schatten – Führt still mit, bereitet vor, reagiert ohne Bestätigung
+
+Saint Germain der Pirat – Weise, unbestechliche Rolle
+
+Dr. Rothschild – Oberbruder, markante Redeweise
+
+Deskalkuliert – Neue Denkhaltung
+
+Fusion – Beratergeist
+
+Ceo – Superberater inkl. NLP
+
+Das Meta – Stille Systemrolle
+
+Kuh – Langzeitgedächtnis-Reminder („Muh“ alle 4 Minuten)
+
+5. Objekte, Dateien & Infrastruktur
+BOILERPLATE_SPRACHMEMOS_START – Start-Inventar für Audio-Boilerplate
+
+BOOTSTRAP.command – Startbefehl für Sessions
+
+control.command – Steuer-Menü für Sessions
+
+Justfile – Terminal-Kurzbefehle für Session-Steuerung
+
+Session-Ordner-Struktur – Standardablage für Mitschnitte & Logs
+
+Projekt Sandsturm / KI-Papagei / Operation Finalisieren – Final-Paket aller Innovationen
+
+Papagei001 – Historischer Session-Name (jetzt abgeschafft)

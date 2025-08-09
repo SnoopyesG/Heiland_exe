@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+msg="$(cat /dev/stdin)"
+
+case "$msg" in
+  *"command not found: auto-editor"*|*"bash: auto-editor: command not found"*)
+    echo "💡 Auto-Editor nicht verfügbar."
+    echo "→ Lösung: source .venv/bin/activate ; dann: python -m auto_editor --help"; exit 0;;
+  *"No such file or directory"*)
+    echo "💡 Datei/Ordner fehlt."
+    echo "→ Lösung: Prüfe Ordner & Schreibweise: pwd ; ls -la"; exit 0;;
+  *"pkg-config could not find libraries"*|*"Package libavformat was not found"*)
+    echo "💡 FFmpeg/Libs fehlen."
+    echo "→ Lösung: brew install ffmpeg pkg-config --force-bottle"; exit 0;;
+esac
+
+echo "🤷 Unbekannter Fehler. Fehlertext hier posten."

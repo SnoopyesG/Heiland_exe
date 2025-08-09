@@ -1,0 +1,17 @@
+
+# KONFIGURATION (kommentiert)
+recordings_dir: "/Users/SG/Library/Application Support/com.apple.voicememos/Recordings"  # Ordner mit Memos
+session_dir: "/Users/SG/ARKHIV/SESSIONS/Sandsturm"  # Zielordner fuer Logs/Artefakte
+parallel_streams: 3        # Anzahl paralleler afplay-Instanzen
+stagger_seconds: 5         # Sekundenversatz zwischen den Starts
+output_master: "session/master_mix.aac"  # Ausgabedatei fuer Aufnahme
+ffmpeg_input_device: "default"  # Eingabegeraet fuer ffmpeg (ggf. anpassen)
+max_runtime_minutes: 0     # 0 = unbegrenzt
+
+auto_editor:
+  input_glob: "~/Library/Application Support/com.apple.voicememos/Recordings/*.m4a"
+  out_dir: "./session/trimmed"
+  margin: 0.05        # Sekunden um Schnitte
+  silence_threshold: -50  # dB
+  min_silence: 0.30   # Sekunden
+  video: false        # nur Audio
